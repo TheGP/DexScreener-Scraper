@@ -2,7 +2,7 @@
 
 Scraper of candle graph data or transactions for Solana tokens.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/EfL3RvRYZOU/0.jpg)](https://www.youtube.com/watch?v=EfL3RvRYZOU)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/udhU_sKg5KM/0.jpg)](https://www.youtube.com/watch?v=udhU_sKg5KM)
 
 Automatically scrolls the grap to the beginning.
 
