@@ -2,7 +2,7 @@
 
 Scraper of candle graph data or transactions for Solana tokens.
 
-https://github.com/user-attachments/assets/ab7c23b4-7bdf-4475-b085-dafbb4352e43
+https://github.com/user-attachments/assets/5859482a-cc9e-41b2-8057-99721615c9d6
 
 Automatically scrolls the grap to the beginning.
 
